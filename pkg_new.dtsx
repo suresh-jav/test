@@ -25,7 +25,9 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=sureshpc;Initial Catalog=StudentWarehouse;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Package5-{F3146182-D1EA-4777-BC4C-C73B78C8A452}SURESHPC.StudentWarehouse;" />
+<<<<<<< HEAD
+          DTS:ConnectionString="Data Source=sureshpc;Initial Catalog=StudentWarehouse;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Package5-{F3146182-D1EA-4777-BC4C-C73B78C8A452}SURESHPC.StudentWarehouse;" />
+>>>>>>> Test
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
